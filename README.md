@@ -28,3 +28,4 @@ TwitchStreaker by BrainInBlack
 •	https://github.com/BrainInBlack/TwitchStreaker
 
 This program is more of a subscription and goal tracker for Twitch streams, but I like how it defines the donation variables with points to add up everything.  
+Edited by Kyla Jones for Sprint 1 Progress Log
