@@ -18,6 +18,7 @@ Twitch Livestream Data Scraper by thomasglauser
 This one scrapes information from a Twitch Stream and creates a Google Sheet. I like that it returns the starting timestamps which can be useful for logging separate streams, refreshes, and that it exports information to a Google Sheet, which can definitely be shared with other moderators.
 
 Twitch_Hue by batubozhan
+Edited by Kyla Jones for Sprint 1 Progress Log
 
 •	https://github.com/batubozkan/twitch_Hue
 
